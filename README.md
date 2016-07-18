@@ -1,1 +1,1 @@
-This is a Java program designed to give you the latest class availability on any UMD course offered.
+This is a Java program designed to give you the latest class availability on any UMD course offered. The Program parses the University of Maryland Testudo website and will display to the user their desired courses that are either have available seats or just a list of all sections offered without filtering out open section.
